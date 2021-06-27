@@ -10,7 +10,7 @@
 This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners....
 
 MafiaBot made by @My_Love_Coming_Near. Join for update related info channel and group :- https://t.me/MafiaBot_Support THANKS FOR VISITING OUR REPO💖
-[![MAFIABOT LOGO](https://telegra.ph/file/75229ba894ef780332815.jpg)](https://t.me/MafiaBot_Support)
+[![MAFIABOT LOGO](https://telegra.ph/file/5bb2ae9514d561c440879.jpg)](https://t.me/My_love_is_near)
 
 
 # The owner would not be responsible for any kind of bans due to the bot...
@@ -26,7 +26,7 @@ MafiaBot made by @My_Love_Coming_Near. Join for update related info channel and 
 
 # FORK AT YOUR OWN RISK
 
-<details>
+<details>u
 
   <summary> • INSTALLING • </summary>
 
